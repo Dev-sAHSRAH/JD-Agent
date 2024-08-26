@@ -1,0 +1,9 @@
+.env
+jobposting-api
+db
+__pycache__
+Scripts
+pyvenv.cfg
+Lib
+Include
+share
